@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26786" started-at="2019-10-03T17:13:06Z" finished-at="2019-10-03T17:13:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26786" started-at="2019-10-03T17:13:06Z" finished-at="2019-10-03T17:13:32Z">
+      <class name="testObject.homepageTest">
+        <test-method status="PASS" signature="envirmentSet()[pri:0, instance:testObject.homepageTest@51efea79]" name="envirmentSet" is-config="true" duration-ms="21393" started-at="2019-10-03T17:13:06Z" finished-at="2019-10-03T17:13:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirmentSet -->
+        <test-method status="PASS" signature="Contact()[pri:1, instance:testObject.homepageTest@51efea79]" name="Contact" duration-ms="2687" started-at="2019-10-03T17:13:27Z" finished-at="2019-10-03T17:13:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contact -->
+        <test-method status="PASS" signature="fillcontact()[pri:2, instance:testObject.homepageTest@51efea79]" name="fillcontact" duration-ms="2510" started-at="2019-10-03T17:13:30Z" finished-at="2019-10-03T17:13:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillcontact -->
+        <test-method status="PASS" signature="successmsg()[pri:3, instance:testObject.homepageTest@51efea79]" name="successmsg" duration-ms="100" started-at="2019-10-03T17:13:32Z" finished-at="2019-10-03T17:13:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successmsg -->
+      </class> <!-- testObject.homepageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
